@@ -2,6 +2,7 @@
   "name": "testing-cloud-app",
   "version": "0.0.1",
   "dependencies": {
+    "async": "^1.5.2",
     "body-parser": "~1.0.2",
     "cors": "~2.2.0",
     "express": "~4.0.0",
